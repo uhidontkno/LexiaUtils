@@ -1,2 +1,2 @@
 # LexiaUtils
-random bullshit for lexia 
+random bullshit for lexia powerup
